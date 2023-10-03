@@ -1,6 +1,6 @@
-### Hi there 👋
+### Greetings! 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+Veteran and recovering academic historian attempting to make his way into Cloud Engineering and DevOps. 
 
 Find out more about me & feel free to connect with me here:
 
