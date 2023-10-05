@@ -1,10 +1,10 @@
 ### Greetings! 👋
 
-Veteran and recovering academic historian attempting to make his way into Cloud Engineering and DevOps. 
+Recovering academic historian, combat vet, and Star Wars superfan attempting to make his way into Cloud Engineering and DevOps. Currently 2x AWS certified, learning more about Python, with an eye on future DevSecOps opportunities.
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sam%20Duncan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/samuel-p-duncan)](www.linkedin.com/in/samuel-p-duncan)
+[![Linkedin Badge](https://img.shields.io/badge/-Sam%20Duncan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-p-duncan/)](https://www.linkedin.com/in/levelupwithbroadus/)
 
 
 ## ⚡ Technologies
