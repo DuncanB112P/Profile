@@ -4,7 +4,7 @@ Veteran and recovering academic historian attempting to make his way into Cloud 
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-<ENTER YOUR NAME>-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/samuel-p-duncan)](www.linkedin.com/in/samuel-p-duncan)
+[![Linkedin Badge](https://img.shields.io/badge/-Sam%20Duncan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/samuel-p-duncan)](www.linkedin.com/in/samuel-p-duncan)
 
 
 ## ⚡ Technologies
