@@ -4,7 +4,7 @@ Recovering academic historian, combat vet, and Star Wars superfan attempting to 
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sam%20Duncan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-p-duncan/)](https://www.linkedin.com/in/levelupwithbroadus/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sam%20Duncan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-p-duncan/)](https://www.linkedin.com/in/samuel-p-duncan/)
 
 
 ## ⚡ Technologies
